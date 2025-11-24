@@ -1,12 +1,16 @@
 # Examen 3 - Programación Funcional
 
-Este repositorio contiene la solución del examen sobre:
+Aplicación en Java que procesa un archivo CSV con temperaturas de varias ciudades usando el paradigma funcional.
 
-- Lectura del archivo CSV con temperaturas
-- Procesamiento con programación funcional (Streams)
-- Cálculo del promedio de temperatura por ciudad dentro de un rango de fechas
-- Representación tipo “gráfica de barras” en consola
-- Identificación de ciudad más calurosa y menos calurosa para una fecha dada
+## Funcionalidades
 
-## Estructura
+- Carga de archivo CSV.
+- Filtrar por rango de fechas.
+- Calcular promedio de temperaturas por ciudad.
+- Mostrar gráfica de barras en consola.
+- Determinar la ciudad más calurosa y la menos calurosa en una fecha específica.
+
+## Ejecución
+
+
 
